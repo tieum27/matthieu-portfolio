@@ -1,0 +1,137 @@
+body {
+	background-color: #E9E9E9;
+	background-image: url(../img/light_wood_texture.jpg);
+}
+
+
+#formWrap {
+	position: float;
+	width:650px;
+	margin-top:10px;
+	margin-left:30px;
+	background:#FFF;
+	border: 1px solid #F1F1F1;
+	-moz-border-radius:20px;
+	-moz-box-shadow:2px 2px 5px #999;
+	-webkit-border-radius: 20px;
+	-webkit-box-shadow:2px 2px 5px #999;
+	padding:8px 10px 15px;
+}
+
+#formWrap #form {
+	border-top:1px solid #EEE;
+	width:650px;
+}
+
+#form .row {
+	border-bottom:1px dotted #EEE;
+	display:block;
+	line-height:30px;
+	overflow:auto;
+	padding:20px 0px;
+	width:100%;
+}
+
+#form .row .label {
+	font-size:12px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	width:100px;
+	text-align:right;
+	float:left;
+	padding-right:10px;
+	margin-right:10px;
+}
+
+#form .row .input {
+	float:left;
+	margin-right:10px;
+/*	width:auto;*/
+	width:285px;
+}
+
+#form .row .input2 {
+	float:left;
+	margin-right:10px;
+/*	width:auto;*/
+	width:466px;
+}
+
+.detail {
+	width:260px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:7px 8px;
+	margin:0px;
+	display:block;
+	border-radius:5px 5px 5px 5px;
+	background-color:#E9E9E9;
+	border:1px solid #CCC;
+}
+
+.mess {
+	width:450px;
+	max-width:450px;
+	height:200px;
+	overflow:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:7px 8px;
+	line-height:1em;
+	margin:0px;
+	display:block
+	border-radius:5px 5px 5px 5px;
+	background-color:#E9E9E9;
+	border:1px solid #CCC;
+}
+
+.detail:focus {
+	background-color:#FFF;
+	border:1px solid #999;
+	outline:none;
+}
+
+.mess:focus {
+	background-color:#FFF;
+	border:1px solid #999;
+	outline:none;
+}
+
+#form .row .context {
+	color:#999;
+	font-size:11px;
+	font-style:italic;
+	line-height:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:200px;
+	float:left;
+}
+
+#form #submit {
+	font-family:Arial, Helvetica, sans-serif;
+	margin-top:18px;
+	margin-left:200px;
+	color:#000;
+	font-size:16px;
+	text-shadow:1px 1px 1px #999;
+	padding:5px;
+}
+
+span.error {
+	color:#000;
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-image:url(../img/x.png);
+	background-repeat:no-repeat;
+	background-position:left 6px;
+	padding-left:25px;
+
+}
+
+#formWrap h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	text-shadow: 1px 1px 1px #CCC;
+	color:#252E67;
+	margin-left:25px;
+}

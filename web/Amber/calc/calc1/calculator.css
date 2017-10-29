@@ -1,0 +1,53 @@
+.calc {
+	background: #CCCCCC;
+	border: 1px solid #8688A8;
+	font: 80% arial,verdana,helvetica,lucida,sans-serif;
+	color: #000000;
+	border-collapse: collapse;
+}
+.calc_input {
+	font: 100% arial,verdana,helvetica,lucida,sans-serif;
+	color: #000000;
+}
+.calc_button {
+	font: 83% arial,verdana,helvetica,lucida,sans-serif;
+	color: #000000;
+}
+.sfont {
+	font-family: arial,verdana,helvetica,lucida,sans-serif;
+	font-size: 83%;
+	color: #666;
+}
+.err{
+	color: #CC0000;
+	font-family: arial,verdana,helvetica,lucida,sans-serif;
+	font-size: 83%;
+}
+TH {
+	border: 1px solid #8688A8;
+	background: #375E85;
+	font: bold;
+	padding: 3px;
+	color: #FFFFFF;
+}
+#tiplayer {
+	font-family: arial,verdana,helvetica,lucida,sans-serif;
+	font-size: 83%;
+	position: absolute;
+	width: 250px;
+	padding: 4px;
+	background: #FFFFE1;
+	border: 1px solid #000000;
+	z-index: 10;
+	visibility: hidden;
+}
+#powered_by, #powered_by a{
+	font: 9px arial,verdana,helvetica,lucida,sans-serif;
+	margin-top: 15px;
+	text-align: center;
+	color: #BBBBBB;
+}
+
+
+.fill01 { background-color: #FFFFFF; }
+.fill02 { background-color: #CCCCCC; }

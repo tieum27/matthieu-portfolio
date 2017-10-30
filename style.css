@@ -1,6 +1,6 @@
 
 /*
-Template Name: Kevin	
+Template Name: Kevin
 Author: MarkUps
 Author URI: http://www.markups.io/
 Version: 1.0
@@ -10,11 +10,11 @@ Version: 1.0
 /* Table of Content
 ==================================================
 #BASIC TYPOGRAPHY
-#HEADER	
-#MENU 
-#FEATURED SLIDER 
+#HEADER
+#MENU
+#FEATURED SLIDER
 #ABOUT US
-#SERVICE 
+#SERVICE
 #PORTFOLIO
 #TESTIMONIAL
 #CONTACT US
@@ -51,9 +51,9 @@ ul li {
 	line-height: 1.59;
 }
 
-a { 
+a {
 	text-decoration: none;
-	color: #2f2f2f;  
+	color: #2f2f2f;
 }
 
 a:hover,
@@ -78,25 +78,25 @@ h1 {
 	font-size: 38px;
 }
 
-h2 {  
-	font-size: 32px; 
-	line-height: 1.13; 
+h2 {
+	font-size: 32px;
+	line-height: 1.13;
 }
 
-h3 {  
-	font-size: 26px;  
+h3 {
+	font-size: 26px;
 }
 
-h4 {  
-	font-size: 22px;  
+h4 {
+	font-size: 22px;
 }
 
-h5 {  
-	font-size: 20px;  
+h5 {
+	font-size: 20px;
 }
 
-h6 {  
-	font-size: 18px;  
+h6 {
+	font-size: 18px;
 }
 
 img {
@@ -151,7 +151,7 @@ blockquote {
 	background-color: #f8f8f8;
 	border-radius: 0 4px 4px 0;
 	padding: 5px 15px;
-	
+
 }
 
 blockquote p {
@@ -183,7 +183,7 @@ button:focus {
 .alignright {
 	float:right;
 	margin-left:8px;
-}		
+}
 
 .alignnone {
 	max-width: 100%;
@@ -256,8 +256,8 @@ button:focus {
 	transition: all 0.5s;
 }
 
-.navbar-default .navbar-brand, 
-.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
 	color: #fff;
 	font-size: 35px;
@@ -318,8 +318,8 @@ button:focus {
 
 .navbar-default .mu-menu li a:hover,
 .navbar-default .mu-menu li a:focus,
-.navbar-default .navbar-nav > .active > a, 
-.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
 	background-color: transparent;
 	color: #fff;
@@ -327,7 +327,7 @@ button:focus {
 
 .navbar-default .mu-menu li a:hover::after,
 .navbar-default .mu-menu li a:focus::after,
-.navbar-default .navbar-nav > .active > a:focus::after, 
+.navbar-default .navbar-nav > .active > a:focus::after,
 .navbar-default .navbar-nav > .active > a:hover::after {
 	transform: scale(1);
 }
@@ -529,7 +529,7 @@ button:focus {
 	margin: 5px 5px;
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
-	
+
 }
 
 .mu-resume-btn {
@@ -739,7 +739,7 @@ button:focus {
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
-	
+
 }
 
 .mu-filter-link:hover,
@@ -747,7 +747,7 @@ button:focus {
 .mu-filter-link:focus,
 .mu-filter-imglink:focus {
 	background-color: #fff;
-} 
+}
 
 
 /* Filter controls */
@@ -780,7 +780,7 @@ button:focus {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	background-image: url("assets/images/mtFuji.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -853,7 +853,7 @@ button:focus {
 }
 
 .mu-ct-name {
-	 margin-bottom: 5px; 
+	 margin-bottom: 5px;
 	color: #fff;
 	line-height: 1;
 	text-transform: uppercase;
@@ -995,7 +995,7 @@ button:focus {
 .mu-contact-form .form-control:focus {
 	background-color: #fff;
     outline: 0;
-    box-shadow: none;    
+    box-shadow: none;
 } ©
 
 .mu-contact-form .form-control::-webkit-input-placeholder {
@@ -1005,7 +1005,7 @@ button:focus {
 
 .mu-contact-form .form-control:-moz-placeholder { /* Firefox 18- */
 	color: #888;
-	font-size: 15px; 
+	font-size: 15px;
 }
 
 .mu-contact-form .form-control::-moz-placeholder {  /* Firefox 19+ */
@@ -1013,14 +1013,14 @@ button:focus {
 	font-size: 15px;
 }
 
-.mu-contact-form .form-control:-ms-input-placeholder {  
+.mu-contact-form .form-control:-ms-input-placeholder {
 	color: #888;
 	font-size: 15px;
 }
 
 .mu-contact-form .button-default::after,
 .mu-contact-form .button-default > span {
-	padding: 12px 40px;  
+	padding: 12px 40px;
 }
 
 .mu-social-media {
@@ -1116,15 +1116,15 @@ button:focus {
 		margin-top: 0;
 	}
 
-	
+
 }
 
 @media (max-width: 991px) {
-	
+
 	.navbar-default .mu-menu li a {
 		font-size: 14px;
 		margin: 10px 5px;
-	}	
+	}
 
 	.mu-primary-btn {
 		font-size: 14px;
@@ -1140,7 +1140,7 @@ button:focus {
 	.mu-contact-header {
 		padding: 0;
 	}
-	 
+
 	.mu-featured-area {
 		padding: 28% 5%;
 	}
@@ -1166,7 +1166,7 @@ button:focus {
 		padding: 0 50px;
 	}
 
-		
+
 }
 
 @media (max-width: 767px) {
@@ -1183,7 +1183,7 @@ button:focus {
 		background-color: #fff;
 	}
 
-	.navbar-default .navbar-collapse, 
+	.navbar-default .navbar-collapse,
 	.navbar-default .navbar-form {
 		background-color: rgba(0,0,0,0.8);
 		text-align: center;
@@ -1209,8 +1209,8 @@ button:focus {
 	.mu-contact-top-single {
 		margin-bottom: 25px;
 	}
-	
-		
+
+
 }
 
 
@@ -1219,7 +1219,7 @@ button:focus {
 	#mu-header.mu-fixed-nav {
 		padding: 10px 0;
 	}
-	
+
 	.mu-featured-slider-content {
 		left: 0;
 		right: 0;
@@ -1246,7 +1246,7 @@ button:focus {
 	.slick-dots {
 		bottom: 15px;
 	}
-			
+
 
 }
 
@@ -1257,8 +1257,8 @@ button:focus {
 		padding: 10px 0;
 	}
 
-	.navbar-default .navbar-brand, 
-	.navbar-default .navbar-brand:hover, 
+	.navbar-default .navbar-brand,
+	.navbar-default .navbar-brand:hover,
 	.navbar-default .navbar-brand:focus {
 		font-size: 25px;
 		margin-top: 0px;
@@ -1308,7 +1308,7 @@ button:focus {
 		font-size: 40px;
 	}
 
-	.mu-featured-slider p, 
+	.mu-featured-slider p,
 	#typed,
 	#typed span {
 		font-size: 18px;
@@ -1326,8 +1326,8 @@ button:focus {
 		padding: 20% 5%;
 	}
 
-				
-	
+
+
 }
 
 
@@ -1370,20 +1370,19 @@ button:focus {
 		width: 100%;
 	}
 
-	.mu-testimonial-slide li.slick-slide, 
+	.mu-testimonial-slide li.slick-slide,
 	.mu-contact-content {
 		padding: 0;
 	}
-	
+
 }
 
 
 
 @media (max-width: 320px){
-	
-	
-	
-	
-	
-}
 
+
+
+
+
+}

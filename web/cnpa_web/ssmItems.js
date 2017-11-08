@@ -41,11 +41,11 @@ barText="MENU"; // <IMG> tag supported. Put exact html for an image to show.
 
 ssmItems[0]=["Le CNPA"] //create header
 ssmItems[1]=["Les News", "divers/news.php", "matt"]
-ssmItems[2]=["Historique du club et chartre qualite", "divers/histo.html","matt"]
+ssmItems[2]=["Historique du club et chartre qualite", "histo.html","matt"]
 ssmItems[3]=["Niveaux de pratique", "divers/niveau.html", "matt"]
 
 ssmItems[4]=["Stages et formation"] //create header
-ssmItems[5]=["Voile<br>4-10 ans", "stages/voile1.html", "matt", 1, "no"]
+ssmItems[5]=["Voile<br>5-12 ans", "stages/voile1.html", "matt", 1, "no"]
 ssmItems[6]=["Voile<br>11-15 ans", "stages/voile2.html", "matt", 1, "yes"]
 ssmItems[7]=["Voile +15ans - Adultes", "stages/voile3.html", "matt",]
 ssmItems[8]=["Char a voile", "stages/char.html", "matt"]

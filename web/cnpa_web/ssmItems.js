@@ -50,17 +50,17 @@ ssmItems[6]=["Voile<br>11-15 ans", "stages/voile2.html", "matt", 1, "yes"]
 ssmItems[7]=["Voile +16ans - Adultes", "stages/voile3.html", "matt",]
 ssmItems[8]=["Planche a voile", "stages/planche.html", "matt"]
 ssmItems[9]=["Natation", "stages/natation.html", "matt"]
-ssmItems[10]=["Permis Mer Cotier", "permis.html", "matt"]
+ssmItems[10]=["Permis Mer Cotier", "stages/permis.html", "matt"]
 
 ssmItems[11]=["Club et ecole de sport"] //create header
 ssmItems[12]=["Club", "sport/club.html", "matt"]
 ssmItems[13]=["Ecole de sport", "sport/ecole.html", "matt"]
 
 ssmItems[14]=["Autre option"] //create header
-ssmItems[15]=["Point plage", "autre/point_plage.html", "matt"]
-ssmItems[16]=["Accueil groupe", "autre/groupe", "matt"]
+ssmItems[15]=["Location", "autre/location.html", "matt"]
+ssmItems[16]=["Accueil groupe", "autre/groupe.html", "matt"]
 ssmItems[17]=["Info et inscription", "autre/info.html", "matt"]
-ssmItems[18]=["Liens", "autre/liens.html", "matt"]
+
 
 buildMenu();
 

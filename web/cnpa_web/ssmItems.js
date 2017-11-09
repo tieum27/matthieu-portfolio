@@ -57,10 +57,10 @@ ssmItems[12]=["Club", "sport/club.html", "matt"]
 ssmItems[13]=["Ecole de sport", "sport/ecole.html", "matt"]
 
 ssmItems[14]=["Autre option"] //create header
-ssmItems[15]=["Point plage", "autre/point_plage.html", "matt"]
-ssmItems[16]=["Accueil groupe", "autre/groupe", "matt"]
+ssmItems[15]=["Location", "autre/location.html", "matt"]
+ssmItems[16]=["Accueil groupe", "autre/groupe.html", "matt"]
 ssmItems[17]=["Info et inscription", "autre/info.html", "matt"]
-ssmItems[18]=["Liens", "autre/liens.html", "matt"]
+
 
 buildMenu();
 

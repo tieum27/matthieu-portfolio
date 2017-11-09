@@ -50,7 +50,7 @@ ssmItems[6]=["Voile<br>11-15 ans", "stages/voile2.html", "matt", 1, "yes"]
 ssmItems[7]=["Voile +16ans - Adultes", "stages/voile3.html", "matt",]
 ssmItems[8]=["Planche a voile", "stages/planche.html", "matt"]
 ssmItems[9]=["Natation", "stages/natation.html", "matt"]
-ssmItems[10]=["Permis Mer Cotier", "permis.html", "matt"]
+ssmItems[10]=["Permis Mer Cotier", "stages/permis.html", "matt"]
 
 ssmItems[11]=["Club et ecole de sport"] //create header
 ssmItems[12]=["Club", "sport/club.html", "matt"]

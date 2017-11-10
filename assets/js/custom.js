@@ -67,7 +67,7 @@
 			});
 
 			$('.mu-css-bar').LineProgressbar({
-				percentage: 90,
+				percentage: 80,
 				triggerOnce: true
 			});
 
@@ -77,12 +77,12 @@
 			});
 
 			$('.mu-jquery-bar').LineProgressbar({
-				percentage: 70,
+				percentage: 85,
 				triggerOnce: true
 			});
 
 			$('.mu-javascript-bar').LineProgressbar({
-				percentage: 55,
+				percentage: 90,
 				triggerOnce: true
 			});
 
